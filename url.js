@@ -1,1 +1,1 @@
-window.__MJ_URL__ = "https://gaotai-mahjing-v1ehkdkh.edgeone.cool?eo_token=b66f3b6bfdf201ebb4c5c30da337f525&eo_time=1790253210";
+window.__MJ_URL__ = "https://gaotai-mahjing-v1ehkdkh.edgeone.cool?eo_token=e346c7df027dcb3907a8503b00831c03&eo_time=1790253818";
